@@ -1,0 +1,2 @@
+# cookiecutter-cocotbext
+Cocotbext template
